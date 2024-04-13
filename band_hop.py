@@ -7,7 +7,7 @@ from js8net import *
 wait_time = 600
 
 # Define the list of dial values in Hz
-dial_values = [3578000, 7078000, 10130000, 14078000]
+dial_values = [3578000, 7078000, 10130000, 14078000, 28078000]
 
 # Initialize the JS8Net connection
 start_net("127.0.0.1", 2442)
